@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/imagenes/alura.png</name>
+			<type>1</type>
+			<locationURI>PARENT-1-ECLIPSE_HOME/proyectos-terminados/proyectoEncriptador/imagenes/Vector%20(1).png</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
